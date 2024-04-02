@@ -18,7 +18,7 @@ public class CSE360Activity extends Application {
     	System.out.println("It started!");
         primaryStage.setTitle("ASU Hello World Spring 2024");
         Button btn = new Button();
-        btn.setText("HELLO WORLD!!!!");
+        btn.setText("HELLO WORLD 2");
         btn.setOnAction(new EventHandler<>() {
             public void handle(ActionEvent event) {
                 System.out.println("ASU: Hello World!");
